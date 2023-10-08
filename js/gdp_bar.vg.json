@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 803,
     "height": 500,
-    "title": "GDP of Top country or Region(2016)",
+    "title": "GDP of Top Country or Region(2016)",
     "data": {"url": "data/world_consumption2016.csv"},
 
     "params": [
